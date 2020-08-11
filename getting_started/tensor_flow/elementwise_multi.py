@@ -1,4 +1,4 @@
-from tensorflow import constant, multiply
+from tensorflow import constant, multiply, ones_like
 
 # Define tensors A1 and A23 as constants
 A1 = constant([1, 2, 3, 4])
